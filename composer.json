@@ -9,6 +9,7 @@
             "email": "sam.stenvall@nordsoftware.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.1",
         "intouch/newrelic": "^1.0",
